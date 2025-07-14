@@ -2,8 +2,7 @@
 
 A Streamlit web application that predicts the **winning probability of an IPL match** in real-time using machine learning models trained on past match data.
 
-[![View App](https://img.shields.io/badge/🔗%20Live%20App-Streamlit-brightgreen)](https://your-app-name.streamlit.app)  
-> 📌 Replace the above link with your actual Streamlit app URL
+(https://your-app-name.streamlit.app)  
 
 ---
 
