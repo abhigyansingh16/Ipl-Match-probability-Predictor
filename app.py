@@ -1,6 +1,9 @@
 import streamlit as st
 import pandas as pd
 import pickle
+import os
+st.write("Files in dir:", os.listdir())
+
 
 teams = ['Sunrisers Hyderabad',
  'Mumbai Indians',
